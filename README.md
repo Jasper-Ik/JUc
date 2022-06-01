@@ -4,3 +4,5 @@ using proper HTML selectors.
 for the internal layout float was used to get item align to their various position.
  I had this peoject done after studying using of external grid to get easier result from the text which for me i beleive to be one the very best on HTML and CSS books
 All the code was adapted from the Book "HTML and CSS" by JON DUCKETTE 
+
+https://jasper-ik.github.io/JUc/bicycle.htm
